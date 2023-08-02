@@ -30,7 +30,7 @@ You can install these dependencies using `pip`. The versions specified in the re
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/taxi-fare-duration-prediction.git
+git clone https://github.com/ChaitanyaChilukuri663/Capabl_Project.git
 
 
 2. Install the required dependencies as mentioned in the Requirements section.
